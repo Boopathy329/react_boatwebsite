@@ -1,0 +1,7 @@
+.homeCoverPage{
+    background-image: url(./home_cover_image.png);
+    height: 100vh;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
